@@ -2,7 +2,7 @@ name: Build Python Package
 
 on:
   push:
-    branches: [main]
+    branches: [main, 6-pypi-package]
   workflow_dispatch:
 
 jobs:

@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - 6-pypi-package
     tags:
       - 'v*'
   workflow_dispatch:
