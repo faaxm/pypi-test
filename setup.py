@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='lipomerge_test_faaxm',
-    version='0.2.0',
+    version='0.3.0',
     author='Falko Axmann',
     description='A tool to merge directories containing static libraries into universal binaries.',
     long_description=open('README.md').read(),
